@@ -1,0 +1,7 @@
+<suite name="Registration Test" verbose="1">
+<test name="Registration tests">
+<classes>
+<class name="com.Laureate.Registration.testcase.Registration"/>
+</classes>
+</test>
+</suite>	
